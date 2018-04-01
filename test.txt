@@ -1,2 +1,1 @@
-hello git 01.
-
+test01aで新しくgit add したファイル。
